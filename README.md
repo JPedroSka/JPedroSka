@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá! Eu sou o João Pedro ✋
+[![Blog](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://skardoosh.itch.io/)
 
-<!--
-**JPedroSka/JPedroSka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPedroSka&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
+## Tecnologias que eu uso no meu dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="python" src="https://img.shields.io/badge/Godot%204-478cbf?style=for-the-badge&logo=godotengine&logoColor=white" />
+    <img align="center" alt="python" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+    <img align="center" alt="python" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+</div><br/>
+
+Gosto de programar e fazer modelagens.
+
