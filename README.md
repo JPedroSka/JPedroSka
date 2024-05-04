@@ -1,4 +1,4 @@
-<p>Olá! Eu sou o João Pedro, prazer! ✋<p/>
+<p>Olá! Eu sou o João Pedro, muito prazer! ✋<p/>
 <h3> E essas são as tecnologias que eu uso no meu dia</h3>
 <div style="display: inline_block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Godot%204-478cbf?style=for-the-badge&logo=godotengine&logoColor=white" />
